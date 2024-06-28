@@ -860,7 +860,7 @@ li .dropdown-toggle{
         height: 1240px;
     }
     .foot-last{
-        height: 1043px;
+        height: 1250px;
     }
 }
 @media screen and (max-width:380px){
@@ -1030,7 +1030,7 @@ li .dropdown-toggle{
         font-size: 10px;
     }
     .foot-last {
-        height: 1110px;
+        height: 1300px;
     }
     .rent h5, .rent p {
         font-size: 10px;
@@ -1206,7 +1206,7 @@ li .dropdown-toggle{
         font-size: 10px;
     }
     .foot-last {
-        height: 1250px;
+        height: 1400px;
     }
     .rent h5, .rent p {
         font-size: 10px;
