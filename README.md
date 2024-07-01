@@ -2,9 +2,9 @@ First you have to clone the project using this link "https://github.com/Sanjay-2
 
 Open the folder named as "mediora" in Visual Studio Code.
 
-Open the file named as "task.html".
+Open the file named as "index.html".
 
-Right click the file "task.html" and choose "copy path" option and then you have to paste it on the browser tab and click enter button.
+Right click the file "index.html" and choose "copy path" option and then you have to paste it on the browser tab and click enter button.
 
 Now you can see the output.
 
